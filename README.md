@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fang Shen, a Ph.D. student in Finance at Stevens Institute of Technology
 - 👀 I’m interested in empirical research, data sattistics, maching learning, to name a few.
-- 🌱 I’m currently learning STATA and R
+- 🌱 I’m currently learning STATA, Python and R.
 - 💞️ I’m looking to collaborate on empirical corporate finance research.
